@@ -15,17 +15,13 @@
 - 🎓 I'm a Computer Science & AI graduate from Cairo University  
 - 👨‍💻 I work as a Frontend Developer building educational platforms and interactive dashboards  
 - 🔁 Transitioning into Backend development with `.NET` and `Node.js`  
-- 📚 Currently learning Machine Learning and clean architecture  
-- 🎯 Goal: Build scalable & impactful full-stack applications  
-- 😄 Fun fact: I used to teach robotics to kids and made robots dance 🤖💃
-
 ---
 
 ### 🧠 Tech Stack by Category
 
 #### 🎨 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,storybook" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,storybook" />
 </p>
 
 #### 🔧 Backend Development
@@ -33,10 +29,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet,mysql,postgres,mongodb" />
 </p>
 
-#### 🧪 Testing & State Management
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jest,redux,zustand" />
-</p>
 
 #### 🤖 AI & Data Science
 <p align="left">
@@ -55,7 +47,6 @@
 - Clean Architecture  
 - SOLID Principles  
 - RESTful APIs  
-- Component-Driven Development (CDD)  
 - Reusable Design Patterns  
 - Version Control with Git
 
